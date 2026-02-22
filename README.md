@@ -36,4 +36,4 @@ It is useful for beginners who are learning:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/JavaArrayMinMax.git
+   git clone https://github.com/bibek-java/ArrayMinMax.git
